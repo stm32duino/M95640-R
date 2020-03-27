@@ -1,4 +1,4 @@
-# S2-LP
+# M95640-R
 Arduino library to support the M95640-R SPI EEPROM
 
 ## API
