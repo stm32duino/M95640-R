@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For M95640-R
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+M95640R	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+EepromRead	KEYWORD2
+EepromWrite	KEYWORD2
+EepromWaitEndWriteOperation	KEYWORD2
+EepromWriteEnable	KEYWORD2
+EepromStatus	KEYWORD2
+EepromSetSrwd	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+EEPROM_CMD_WREN	LITERAL1
+EEPROM_CMD_WRDI	LITERAL1
+EEPROM_CMD_RDSR	LITERAL1
+EEPROM_CMD_WRSR	LITERAL1
+EEPROM_CMD_READ	LITERAL1
+EEPROM_CMD_WRITE	LITERAL1
+EEPROM_STATUS_SRWD	LITERAL1
+EEPROM_STATUS_BP	LITERAL1
+EEPROM_STATUS_WEL	LITERAL1
+EEPROM_STATUS_WIP	LITERAL1
